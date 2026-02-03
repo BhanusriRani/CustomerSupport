@@ -1,0 +1,11 @@
+<botcomponent schemaname="prefix_customerSupportAssistant.gpt.default">
+  <componenttype>15</componenttype>
+  <description>Provides automated assistance for customer inquiries, troubleshooting, and support ticket management.</description>
+  <iscustomizable>0</iscustomizable>
+  <name>Customer Support Assistant</name>
+  <parentbotid>
+    <schemaname>prefix_customerSupportAssistant</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>

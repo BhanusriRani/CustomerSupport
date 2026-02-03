@@ -1,0 +1,12 @@
+<botcomponent schemaname="prefix_customerSupportAssistant.file.file5.txt_Jo0">
+  <componenttype>14</componenttype>
+  <description>This knowledge source searches information contained in file5.txt</description>
+  <filedata mimetype="text/plain">file5.txt</filedata>
+  <iscustomizable>0</iscustomizable>
+  <name>file5.txt</name>
+  <parentbotid>
+    <schemaname>prefix_customerSupportAssistant</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>
